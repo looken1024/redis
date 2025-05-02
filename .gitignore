@@ -5,13 +5,6 @@
 *.d
 *.log
 dump.rdb
-redis-benchmark
-redis-check-aof
-redis-check-rdb
-redis-check-dump
-redis-cli
-redis-sentinel
-redis-server
 doc-tools
 release
 misc/*
@@ -20,11 +13,7 @@ appendonly.aof*
 appendonlydir
 SHORT_TERM_TODO
 release.h
-src/transfer.sh
-src/configs
 redis.ds
-src/redis.conf
-src/nodes.conf
 deps/lua/src/lua
 deps/lua/src/luac
 deps/lua/src/liblua.a
